@@ -1,0 +1,3 @@
+/home/daniela/testeCmake/build/CMakeFiles/rebuild_cache.dir
+/home/daniela/testeCmake/build/CMakeFiles/TP1.dir
+/home/daniela/testeCmake/build/CMakeFiles/edit_cache.dir

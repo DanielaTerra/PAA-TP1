@@ -1,0 +1,6 @@
+
+Tempo de execução dos experimentos: 
+
+Tempo de execução (experimento - 1 cópia do arquivo): 0.0540 s.
+Tempo de execução  (experimento - 10 cópias do arquivo): 0.3084 s.
+Tempo de execução  (experimento - 100 cópias do arquivo): 3.0088 s.
